@@ -44,7 +44,7 @@
       <div class="card shadow-sm">
         <div class="card-body">
           <h5 class="card-title">User Registration & Login</h5>
-          <p class="card-text">Create your account and securely access your encrypted files anytime.</p>
+          <p class="card-text">Create your account and securely access your encrypted files anytime</p>
         </div>
       </div>
     </div>
